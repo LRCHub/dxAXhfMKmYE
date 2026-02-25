@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Re:Start",
+  "base_artist": "アンチテーゼ",
+  "createdAt": "2026-02-25T01:01:18.772731Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "re:start",
+      "artist": "Miraie feat. kuru",
+      "has_synced": true,
+      "path": "select/01_re_start_Miraie_feat._kuru.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "re:start (feat. kuru)",
+      "artist": "Miraie, Kuru",
+      "has_synced": true,
+      "path": "select/02_re_start_(feat._kuru)_Miraie,_Kuru.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Re.Start",
+      "artist": "God Module",
+      "has_synced": false,
+      "path": "select/03_Re.Start_God_Module.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Re start",
+      "artist": "color-code",
+      "has_synced": false,
+      "path": "select/04_Re_start_color-code.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "(Re)Start",
+      "artist": "Sobel & Deemz",
+      "has_synced": true,
+      "path": "select/05_(Re)Start_Sobel_&_Deemz.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "(Re)Start",
+      "artist": "Sobel",
+      "has_synced": true,
+      "path": "select/06_(Re)Start_Sobel.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "re:start (feat. kuru)",
+      "artist": "Miraie",
+      "has_synced": true,
+      "path": "select/07_re_start_(feat._kuru)_Miraie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "TOKYO HOMESICK -Re:Start- feat. Linus",
+      "artist": "DJ KOMORI",
+      "has_synced": true,
+      "path": "select/08_TOKYO_HOMESICK_-Re_Start-_feat._Linus_DJ_KOMORI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Re:start!!!",
+      "artist": "HYPNOSISMIC -D.R.B.-(Buster Bros !!!)",
+      "has_synced": true,
+      "path": "select/09_Re_start!!!_HYPNOSISMIC_-D.R.B.-(Buster_Bros_!!!).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Menggapai Mimpi (Re:Start Mix)",
+      "artist": "Missing Madeline",
+      "has_synced": false,
+      "path": "select/10_Menggapai_Mimpi_(Re_Start_Mix)_Missing_Madeline.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "(re)start",
+      "artist": "drama trial",
+      "has_synced": true,
+      "path": "select/11_(re)start_drama_trial.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Re:Start",
+      "artist": "アンチテーゼ",
+      "has_synced": false,
+      "path": "select/pl_01_Re_Start_アンチテーゼ.txt"
+    }
+  ]
+}
